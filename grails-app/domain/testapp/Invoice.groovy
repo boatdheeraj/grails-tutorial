@@ -3,8 +3,7 @@ package testapp
 class Invoice {
 
     String name
-
-    static hasMany = [items: item]
+    static hasMany = [items: Item]
     static constraints = {
     }
 
