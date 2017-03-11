@@ -7,7 +7,7 @@
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico" />
 </head>
 <body>
-  <p>Hello eiei</p>
+  <p>Hello ${name}</p>
 
 </body>
 </html>
